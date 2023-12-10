@@ -12,4 +12,16 @@ var Fruits = {
     season : 'spring',
 }
 
+
+
+
+var Patient = {
+    id : '10',
+    name : 'Asad',
+    desease : 'Sugar',
+    hospital : 'RMI',
+}
+
+console.log(Patient);
+
 console.log(Fruits);
