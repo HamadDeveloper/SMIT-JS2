@@ -21,7 +21,7 @@ var Patient = {
     desease : 'Sugar',
     hospital : 'RMI',
 }
-
+ delete Patient.hospital;
 console.log(Patient);
 
 console.log(Fruits);
